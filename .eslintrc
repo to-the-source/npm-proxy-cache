@@ -2,7 +2,7 @@
 env:
   node: true
   mocha: true
-  es6: true
+  es2017: true
 
 rules:
   # Possible Errors
